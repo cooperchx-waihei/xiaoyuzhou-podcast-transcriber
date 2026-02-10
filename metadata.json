@@ -1,0 +1,5 @@
+{
+  "name": "小宇宙播客转写助手",
+  "description": "提取小宇宙播客链接中的音频，并使用 Gemini 2.5 Flash 生成逐字稿。",
+  "requestFramePermissions": []
+}
